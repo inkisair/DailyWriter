@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriterWindow", "DailyWriter\WriterWindow.csproj", "{7B866328-4D04-425E-87B6-084E4CD0D35D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DailyWriter", "DailyWriter.vdproj", "{0B22FAE0-177E-40EF-BCE2-FADBB6C55CB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B866328-4D04-425E-87B6-084E4CD0D35D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B866328-4D04-425E-87B6-084E4CD0D35D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B866328-4D04-425E-87B6-084E4CD0D35D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B866328-4D04-425E-87B6-084E4CD0D35D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B22FAE0-177E-40EF-BCE2-FADBB6C55CB5}.Debug|Any CPU.ActiveCfg = Debug
+		{0B22FAE0-177E-40EF-BCE2-FADBB6C55CB5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F80FDF92-54E5-4AC9-AC2B-2DE7BC0BEB28}
+	EndGlobalSection
+EndGlobal
